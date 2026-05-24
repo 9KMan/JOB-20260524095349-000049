@@ -1,0 +1,8 @@
+# Sample proxy list format
+# host:port:user:pass
+# One per line, lines starting with # are comments
+
+# Example ProxyMesh proxies
+# us-west.proxy.proxymesh.com:14000:user:pass
+# us-east.proxy.proxymesh.com:14000:user:pass
+# eu.proxy.proxymesh.com:14000:user:pass
